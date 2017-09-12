@@ -5,7 +5,7 @@ Allowing people with arthritis to write better, with less pain.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+hi
 
 ```markdown
 Syntax highlighted code block
