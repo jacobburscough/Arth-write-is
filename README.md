@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Arth-write-is
 
-You can use the [editor on GitHub](https://github.com/jacobburscough/Arth-write-is/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Allowing people with arthritis to write better, with less pain.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
